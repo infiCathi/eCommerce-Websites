@@ -1,0 +1,1485 @@
+var comingSoonProducts = { 'ac122012-bench-top-furnace': '795', 'ac1228-bench-top-furnace': '795', 'ac1232-bench-top-furnace': '795', 'ac1240-bench-top-furnace': '795', 'ac136-bench-top-furnace': '795', 'ac162012-bench-top-furnace': '795', 'ac162012-bench-top-furnace-1': '795', 'ac163210-bench-top-furnace': '795', 'ac163212-bench-top-furnace': '795', 'ae-1520-mid-size-furnace': '795', 'ae-1520-d-mid-size-furnace': '795', 'ae-1520-dw-mid-size-furnace': '795', 'ae-1824-mid-size-furnace': '795', 'ae-1824-d-mid-size-furnace': '795', 'ae-1524-dw-mid-size-furnace': '795', 'ae-1836-mid-size-furnace': '795', 'ae-1836-d-mid-size-furnace': '795', 'ae-1536-dw-mid-size-furnace': '795', 'ae-1848-mid-size-furnace': '795', 'ae-1848-d-mid-size-furnace': '795', 'ae-1848-dw-mid-size-furnace': '795', 'aluminum-aging-oven': '795', 'aluminum-billet-preheat-oven': '795', 'aluminum-solution-oven': '795', 'c-122012-dw-single-chamber-furnace': '795', 'c-122012d-tool-room-furnace': '795', 'c-122412d-tool-room-furnace': '795', 'c-1228-dw-single-chamber-furnace': '795', 'c-1232-dw-single-chamber-furnace': '795', 'c-1232d-tool-room-furnace': '795', 'c-1240-dw-single-chamber-furnace': '795', 'c-1240d-tool-room-furnace': '795', 'c-136d-tool-room-furnace': '795', 'c-163210d-tool-room-furnace': '795', 'c-163212d-tool-room-furnace': '795', 'c-181822-tool-room-furnace': '795', 'c-181824-tool-room-furnace': '795', 'c-2121-tool-room-furnace': '795', 'large-production-heat-treat-furnace': '795', 'c-336-large-capacity-furnace': '795', 'c-36-fh-wc-large-capacity-furnace': '795', 'c-444-large-capacity-furnace': '795', 'c122012-benchtop-furnace': '795', 'c122412-benchtop-furnace': '795', 'c1228-benchtop-furnace': '795', 'c1232-benchtop-furnace': '795', 'c1240-benchtop-furnace': '795', 'c133-general-use-furnace': '795', 'cress-heat-treat-hardening-general-use-furnace-c136': '795', 'c62010-benchtop-furnace': '795', 'c162012-benchtop-furnace': '795', 'c163210-benchtop-furnace': '795', 'c163212-benchtop-furnace': '795', 'c401h-small-lab-furnace': '795', 'c601-small-lab-furnace': '795', 'car-bottom-annealing-furnace-1': '795', 'cdo-28-large-capacity-oven': '795', 'cdo-5-benchtop-oven': '795', 'car-bottom-annealing-furnace': '795', 'computer-disk-oven': '795', 'continuous-curing-ovens': '795', 'continuous-graphite-filament-oven': '795', 'custom-clamshell-furnace': '795', 'custom-granulation-dryers': '795', 'dc-166-clean-room-mechanical-convection-oven': '795', 'dc-246-clean-room-mechanical-convection-oven': '795', 'dc-326-clean-room-mechanical-convection-oven': '795', 'dc-336-clean-room-mechanical-convection-oven': '795', 'dc-606-clean-room-mechanical-convection-oven': '795', 'dc-966-clean-room-mechanical-convection-oven': '795', 'dcc-1406-floor-model-clean-room-mechanical-convection-oven': '795', 'dcc-146-bench-model-clean-room-mechanical-convection-oven': '795', 'dcc-206-bench-model-clean-room-mechanical-convection-oven': '795', 'dcc-256-bench-model-clean-room-mechanical-convection-oven': '795', 'dcc-336-floor-model-clean-room-mechanical-convection-oven': '795', 'g-10-h-glass-annealing-and-bake-out-furnace': '795', 'g-18-h-glass-annealing-and-bake-out-furnace': '795', 'g-22-h-glass-annealing-and-bake-out-furnace': '795', 'g-4-h-glass-annealing-and-bake-out-furnace': '795', 'g-5-h-glass-annealing-and-bake-out-furnace': '795', 'g-6-h-glass-annealing-and-bake-out-furnace': '795', 'g-7-h-glass-annealing-and-bake-out-furnace': '795', 'g-8-h-glass-annealing-and-bake-out-furnace': '795', 'g-9-h-glass-annealing-and-bake-out-furnace': '795', 'garment-processing-oven': '795', 'hot-glass-oven': '795', 'industrial-conveyor-furnaces': '795', 'medical-wire-oven': '795', 'powder-coat-batch-ovens': '795', 'pure-path-100-distillation-system': '795', 'r-24-s-quench-furnace': '795', 'r-36-s-quench-furnace': '795', 'sc55h13-2ptss-cabinet-style-oven': '795', 'sc55h8-3ptss-cabinet-style-oven': '795', 'sc55h59-9tss-truck-in-oven': '795', 'sc55h8-3ptss-cabinet-style-oven-1': '795', 'sc55h95-8tss-truck-in-oven': '795', 'screen-pring-drying-oven': '795', 'shel-lab-sgo1e-laboratory-gravity-convection-oven': '795', 'copy-of-sgo1e-economy-oven': '795', 'sgo3-medium-oven': '795', 'copy-of-sgo3-medium-oven': '795', 'sgo5-general-purpose-oven': '795', 'copy-of-sgo5-general-purpose-oven': '795', 'shc10-medium-test-chamber': '795', 'copy-of-shc10-medium-test-chamber': '795', 'shc10r-medium-test-chamber': '795', 'copy-of-shc10r-medium-test-chamber': '795', 'shc28-large-test-chamber': '795', 'copy-of-shc28-large-test-chamber': '795', 'shc28r-large-test-chamber': '795', 'copy-of-shc28r-large-test-chamber': '795', 'smo10hp-230v-drying-oven': '795', 'smo14hp-230v-drying-oven': '795', 'smo28-230v-large-oven': '795', 'smo28hp-230v-drying-oven': '795', 'smo3-general-purpose-oven': '795', 'copy-of-smo3-general-purpose-oven': '795', 'smo38hp-230v-large-oven': '795', 'copy-of-smo5-230v-general-purpose-oven': '795', 'smo5-230v-general-purpose-oven': '795', 'smo5cr-2-clean-air-oven': '795', 'smo5hp-230v-benchtop-oven': '795', 'svac1-small-oven': '795', 'copy-of-svac1-small-oven': '795', 'svac2-medium-oven': '795', 'copy-of-svac2-medium-oven': '795', 'svac4-large-oven': '795', 'copy-of-svac4-large-oven': '795', 'svac9-2-large-oven': '795', 'svo-10-large-capacity-oven': '795', 'svo-10t-turbo-hi-vac-oven': '795', 'svo-2t-bench-top-hi-vac-oven': '795', 'tfo-1-lab-oven': '795', 'tfo-10-drying-and-curing-ovens': '795', 'tfo-28-drying-and-curing-ovens': '795', 'tfo-3-lab-oven': '795', 'tfo-5-lab-oven': '795', 'cvo-10-pro-oven-system': '795', 'tvo-2-bench-top-oven': '795', 'tvo-2b-pro-oven-system-with-scroll-pump': '795', 'tvo-2b-standard-oven-system-with-scroll-pump': '795', 'tvo-5-bench-top-oven': '795', 'tvo-5b-double-up-oven-system': '795', 'tvo-5b-pro-oven-system-with-scroll-pump': '795', 'tvo-5b-standard-oven-system-with-scroll-pump': '795', 'tvo-5b-turbo-oven-system-with-scroll-pump': '795', 'wire-coil-oven': '795', 'c-162010-dw-single-chamber-furnace': '795', 'c-121612-dw-single-chamber-furnace': '795', 'c-163212-dw-single-chamber-furnace': '795', 'copy-of-ae-1520-d-mid-size-dual-furnace': '795'}; 
+
+textGetAQuote = "Request Quote";
+isenabled = 1;
+hideAddToCart = 1;
+enableElPhone = 0;
+elementsSortOrder = 2;
+phoneNumberQoute = "";
+hideprice = 1;
+showgetaquote = 1;
+showaddtoquote = 1;
+addquotebuttontext = "Add to quote";
+gscBack = "#e9e9e9";
+gscFont = "#333333";
+phoneNumberText = "Call for price";
+
+/*
+ * LICENSE NOTE
+ * The owner of copyrights for this code is Gravity Software Ltd.
+ * In order to use the code you need to install Call For Price application available on shopify appstore.
+ * Do not use otherwise. Do not re-distribute. 
+ */
+
+/*
+textGetAQuote = 'Get a Quote';
+hideAddToCart = true;
+enableElPhone = 1;
+elementsSortOrder = 1;
+phoneNumberQoute = '1-847-555-5558';
+*/
+
+var foundProductPage = '';
+
+enableElGetQuote = 1;
+textGetAQuoteOther = textGetAQuote;
+marginTopTelephone = 5;
+isFound = false;
+dateAppended = false;
+buttonStyleForceTheme = true;
+buttonStyleClasses = "";
+topMediaParentCFP = false;
+priceFoundInSection = false;
+dialogGS = null;
+formGS = null;
+GSformId = 0;
+hidePrices = hideprice;
+badgeCSColor = "#4f4f4f";
+replacedSoldOut = false;
+comingsoontext = textGetAQuote;
+stylesappended = false;
+quickViewButtons = [];
+hideGetAQuoteOther = true;
+
+textGetAQuoteHeader = 'Get a quote';
+if(window.location.href.indexOf('apelacionesamazon') > 0) {
+textGetAQuoteHeader = 'Solicitud de presupuesto';
+}
+
+if(window.location.href.indexOf('motorkaa') > 0) {
+textGetAQuoteHeader = '&nbsp;';
+}
+
+if(window.location.href.indexOf('agua') > 0) {
+textGetAQuoteHeader = '&nbsp;';
+}
+
+if(window.location.href.indexOf('refur') > 0) {
+textGetAQuoteHeader = 'Refurbees Help Form';
+}
+
+if(window.location.href.indexOf('ipx360') > 0) {
+textGetAQuoteHeader = 'request info/quote';
+}
+
+if(window.location.href.indexOf('eaglepens') > 0) {
+textGetAQuoteHeader = '';
+}
+
+(function($){
+	
+	$.fn.getStyles = function(only, except) {
+		
+		// the map to return with requested styles and values as KVP
+		var product = {};
+		
+		// the style object from the DOM element we need to iterate through
+		var style;
+		
+		// recycle the name of the style attribute
+		var name;
+		
+		// if it's a limited list, no need to run through the entire style object
+		if (only && only instanceof Array) {
+			
+			for (var i = 0, l = only.length; i < l; i++) {
+				// since we have the name already, just return via built-in .css method
+				name = only[i];
+				product[name] = this.css(name);
+			}
+			
+		} else {
+		
+			// prevent from empty selector
+			if (this.length) {
+				
+				// otherwise, we need to get everything
+				var dom = this.get(0);
+				
+				// standards
+				if (window.getComputedStyle) {
+					
+					// convenience methods to turn css case ('background-image') to camel ('backgroundImage')
+					var pattern = /\-([a-z])/g;
+					var uc = function (a, b) {
+							return b.toUpperCase();
+					};			
+					var camelize = function(string){
+						return string.replace(pattern, uc);
+					};
+					
+					// make sure we're getting a good reference
+					if (style = window.getComputedStyle(dom, null)) {
+						var camel, value;
+						// opera doesn't give back style.length - use truthy since a 0 length may as well be skipped anyways
+						if (style.length) {
+							for (var i = 0, l = style.length; i < l; i++) {
+								name = style[i];
+								camel = camelize(name);
+								value = style.getPropertyValue(name);
+								product[camel] = value;
+							}
+						} else {
+							// opera
+							for (name in style) {
+								camel = camelize(name);
+								value = style.getPropertyValue(name) || style[name];
+								product[camel] = value;
+							}
+						}
+					}
+				}
+				// IE - first try currentStyle, then normal style object - don't bother with runtimeStyle
+				else if (style = dom.currentStyle) {
+					for (name in style) {
+						product[name] = style[name];
+					}
+				}
+				else if (style = dom.style) {
+					for (name in style) {
+						if (typeof style[name] != 'function') {
+							product[name] = style[name];
+						}
+					}
+				}
+			}
+		}
+		
+		// remove any styles specified...
+		// be careful on blacklist - sometimes vendor-specific values aren't obvious but will be visible...  e.g., excepting 'color' will still let '-webkit-text-fill-color' through, which will in fact color the text
+		if (except && except instanceof Array) {
+			for (var i = 0, l = except.length; i < l; i++) {
+				name = except[i];
+				delete product[name];
+			}
+		}
+		
+		// one way out so we can process blacklist in one spot
+		return product;
+	
+	};
+	
+	// sugar - source is the selector, dom element or jQuery instance to copy from - only and except are optional
+	$.fn.copyCSS = function(source, only, except) {
+		var styles = $(source).getStyles(only, except);
+		this.css(styles);
+		
+		return this;
+	};
+	
+})(jQuery);
+
+var loadScript = function(url, callback){
+
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+ 
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){
+            callback();
+        };
+    }
+ 
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+
+};
+
+function getQuotHTML() {
+       
+        var forceFontSize = '';
+
+    if(jQCfp("body").css("font-family").indexOf("Arapey") > -1)
+        {
+        forceFontSize = ' font-size: 22px; ';
+        }
+
+
+    var buttonGetQuote = '<button id="create-user" style="display: block !important; margin-top: 20px; margin-bottom: 10px;">' + textGetAQuote + '</button>';
+    var buttonPhoneNr = '<p style="' + forceFontSize + ' margin-top: ' + marginTopTelephone + 'px; margin-bottom: 20px; clear: both;">' + phoneNumberText + ': <a href="tel:' + phoneNumberQoute + '">' + phoneNumberQoute + '</a></p>';
+    
+    var btnsContent = '';
+    
+    if(elementsSortOrder == 1) {
+        if(enableElGetQuote) { 
+            btnsContent += buttonGetQuote;
+        }   
+        if(enableElPhone) {
+            btnsContent += buttonPhoneNr;
+        }        
+    }   
+    
+    if(elementsSortOrder == 2) {
+        if(enableElPhone) { 
+            btnsContent += buttonPhoneNr;
+        }        
+        if(enableElGetQuote) {
+            btnsContent += buttonGetQuote;
+        }   
+    }   
+    return btnsContent + '<div id="dialog-form" title="' + textGetAQuoteHeader + '"></div>';
+    //return btnsContent + '<div id="dialog-form" title="' + textGetAQuoteHeader + '"><form><fieldset><label for="name">Name</label><input type="text" name="name" id="name" value="" placeholder="Your name" class="text ui-widget-content ui-corner-all"><label for="email">E-mail</label><input type="text" name="email" id="email" placeholder="Your e-mail" class="text ui-widget-content ui-corner-all"><label for="telephonenr">Telephone</label><input type="text" name="telephonenr" id="telephonenr" placeholder="Optional" class="text ui-widget-content ui-corner-all"><input type="submit" tabindex="-1" style="position:absolute; top:-1000px"></fieldset></form></div>';
+}
+
+
+function replaceTextRecursiveEach($element){
+    $element.children().each(function () {
+        var $currentElement = jQCfp(this);
+        if(jQCfp(this).text() != '') {
+            //jQCfp(this).text("Get Notified");
+	    //jQCfp(this).attr("class", "");
+
+var csElement = this;
+
+jQCfp(document).on('change', this, function() {   
+            jQCfp(csElement).text(textGetAQuote);
+            jQCfp(csElement).attr("onlick", "return false;");
+            jQCfp(csElement).attr("id", "REMOVEDID2");
+	    jQCfp(csElement).attr('disabled','disabled');
+});
+
+            jQCfp(this).text(textGetAQuote);
+	    jQCfp(this).attr("onlick", "return false;");
+	    jQCfp(this).attr("id", "REMOVEDID2");
+	    jQCfp(this).attr('disabled','disabled');
+            
+            setTimeout(function() {
+                    jQCfp(csElement).text(textGetAQuote);
+                    jQCfp(csElement).attr("onlick", "return false;");
+                    jQCfp(csElement).attr("id", "REMOVEDID2");
+                    jQCfp(csElement).attr('disabled','disabled');
+            }, 500);            
+            
+        }
+        replaceTextRecursiveEach($currentElement);
+    });
+}
+
+function replaceTextRecursiveEach0($element){
+
+var csElement = $element;
+
+jQCfp(document).on('change', $element, function() {   
+            jQCfp(csElement).text(textGetAQuote);
+            jQCfp(csElement).attr("onlick", "return false;");
+            jQCfp(csElement).attr("id", "REMOVEDID2");
+	    jQCfp(csElement).attr('disabled','disabled');
+});
+
+	    //$element.attr("class", "");
+            $element.text(textGetAQuote);
+            $element.attr("onlick", "return false;");
+            $element.attr("id", "REMOVEDID2");
+	    $element.attr('disabled','disabled');
+}
+
+
+function replaceTextRecursiveEach2($element){
+//alert($element.text());
+        if($element.text().indexOf("Sold") >= 0) {
+	    //jQCfp(this).text("Get Notified");
+            $element.text(textGetAQuote);
+	    $element.attr("onlick", "return false;");
+        }
+
+    $element.each(function () {
+        var $currentElement = jQCfp(this);
+        if(jQCfp(this).text().indexOf("Sold") >= 0) {
+            //jQCfp(this).text("Get Notified");
+            jQCfp(this).text(textGetAQuote);
+	    jQCfp(this).attr("onlick", "return false;");
+        }
+        replaceTextRecursiveEach2($currentElement);
+    });
+}
+
+function replaceTextRecursiveEach3($element){
+    $element.children(":visible").each(function () {
+        var $currentElement = jQCfp(this);
+	var textLower = jQCfp(this).text().toLowerCase();
+	var indexOfSold = textLower.indexOf("sold");
+	var indexOfOut = textLower.indexOf("out of");
+        if(indexOfSold == 0 || indexOfSold == 1 || indexOfOut == 0 || indexOfOut == 1 || textLower.indexOf("uppseld") > 0 || textLower.indexOf("stock") > 0 || textLower.indexOf("unavail") > 0) {
+           //jQCfp(this).text("Get Notified");
+            jQCfp(this).text(textGetAQuoteOther);
+	    jQCfp(this).attr("id", "REMOVEDID4");
+            replacedSoldOut = true;
+        }
+        replaceTextRecursiveEach3($currentElement);
+    });
+}
+
+
+var findMediaTopParentCFP = function(firstImageElement, buttonsGS){
+    var topLevelElement = jQCfp(firstImageElement);
+    var previousTopLevelElement = topLevelElement;
+    
+    while(true) {
+        previousTopLevelElement = topLevelElement;
+        topLevelElement = topLevelElement.parent();
+        
+        if(topLevelElement.prop("tagName") == undefined) {
+            return false;
+        }
+        
+        var nodeName = topLevelElement.prop("tagName").toLowerCase();
+        if(nodeName == "body") {
+            return false;
+        }
+
+        var topLevelFound = false;
+        jQCfp.each( buttonsGS, function( index, button ) {
+            //console.log(button);
+            if(jQCfp.contains(topLevelElement.get(0), button)) {
+                topLevelFound = true;
+            }
+        }); 
+        
+        if(topLevelFound) {
+            return previousTopLevelElement;
+        }
+    }
+    return false;
+};
+
+var loopForPrice = function (parentElement) {
+    
+    if(hideprice != 1) {
+        return;
+    }
+    
+    jQCfp( "img" ).each(function() {                
+        if(topMediaParentCFP == false) {
+            topMediaParentCFP = findMediaTopParentCFP(this, parentElement);
+        }
+    });
+   
+    if(topMediaParentCFP == false) {
+    
+    jQCfp( "[class*=image]" ).each(function() {
+        if(topMediaParentCFP == false) {
+            topMediaParentCFP = findMediaTopParentCFP(this, parentElement);
+        }
+    });
+    }  
+ 
+    if(topMediaParentCFP != false) {
+        //jQCfp(topMediaParentCFP).parent().css("background-color", '#1111cc'); 
+    }
+    
+    priceFoundInSection = false;
+    
+    if(topMediaParentCFP == false) {
+        //topMediaParentCFP = topMediaParent;
+    }
+
+var elementToValidate;
+
+if(topMediaParentCFP == false) {
+    elementToValidate = jQCfp(jQCfp("body").get(0));
+}
+else {
+    elementToValidate = topMediaParentCFP.parent();    
+}    
+
+    loopForQtyChildrenAndReplace(elementToValidate);    
+    while(true) {
+
+            var nodeName = elementToValidate.prop("tagName").toLowerCase();
+            if((nodeName == "body") || (nodeName == "html") || (priceFoundInSection == true)) {
+                return false;
+            }
+        
+            loopForPriceChildrenAndReplace(elementToValidate);
+            elementToValidate = elementToValidate.parent();
+    }
+}
+
+var loopForQtyChildrenAndReplace = function (parentElement) {
+    
+    if(parentElement == null) {
+        return;
+    }
+
+    var Nodecontent = "";
+        try {
+            var elementHash = getHashBasicCFP(parentElement);
+            if(elementHash.indexOf("qty") >= 0 || elementHash.indexOf("quantity") >= 0) {           
+                if(parentElement.html().toLowerCase().indexOf("add") == -1) {
+                    parentElement.remove();
+                }
+            } 
+        }
+        catch(err) {
+            return false;
+        }
+        parentElement.children().each(function () {
+            loopForQtyChildrenAndReplace(jQCfp(this));
+        });
+        return false;        
+}
+
+var loopForPriceChildrenAndReplace = function (parentElement) {
+    
+    if(parentElement == null) {
+        return;
+    }
+
+    var Nodecontent = "";
+        try {
+            var elementHash = getHashBasicCFP(parentElement);
+//            if(elementHash.indexOf("price") >= 0) {           
+if((elementHash.indexOf("price") >= 0) && (elementHash.indexOf("product-page--price-n-button-wrapper") == -1)) {
+                priceFoundInSection = true;
+                parentElement.remove();
+            } 
+        }
+        catch(err) {
+            return false;
+        }
+        parentElement.children().each(function () {
+            loopForPriceChildrenAndReplace(jQCfp(this));
+        });
+        return false;        
+}
+
+var loopForPriceChildrenAndReplaceOther = function (parentElement, skipFirst) {
+    
+    if(hideprice != 1) {
+        return;
+    }    
+    
+    if(parentElement == null) {
+        return;
+    }
+
+    if(jQCfp(parentElement).find(".grid-link__meta").length > 0) {
+        jQCfp(parentElement).find(".grid-link__meta").remove();
+    }
+
+    var Nodecontent = "";
+        try {
+                if(!skipFirst) {
+                var elementHash = getHashBasicCFP(parentElement);
+                if(elementHash.indexOf("price") >= 0) {           
+                    parentElement.remove();
+                } 
+            }
+        }
+        catch(err) {
+            return false;
+        }
+        parentElement.children().each(function () {
+            loopForPriceChildrenAndReplaceOther(jQCfp(this), false);
+        });
+        return false;        
+}
+
+function getHashBasicCFP(elementForHash) {
+	var hash = '';
+	//elementForHash = jQCfp(elementForHash);
+	if(hasValueCFP(jQCfp(elementForHash).attr('class')) != false) {
+		hash = hash + jQCfp(elementForHash).attr('class');
+	}
+
+        if(hasValueCFP(jQCfp(elementForHash).attr('id')) != false) {
+                hash = hash + jQCfp(elementForHash).attr('id');
+        }
+
+        if(hasValueCFP(jQCfp(elementForHash).attr('name')) != false) {
+                hash = hash + jQCfp(elementForHash).attr('name');
+        }
+
+	return hash.toLowerCase();
+}
+
+
+var loopForPriceOLD = function (parentElement) {
+    if(loopForPriceChildrenAndReplace(parentElement)) {
+        return true;
+    }
+    //return loopForPrice(parentElement.parent());
+}
+
+var loopForPriceChildrenAndReplaceOLD = function (parentElement) {
+    
+    // if has price change
+    //parentElement 
+    
+    if(parentElement == null) {
+        return;
+    }
+
+    var Nodecontent = "";
+        try {
+            Nodecontent = parentElement.clone().children().remove().end().text();
+            //console.debug(Nodecontent);
+            var regexTest = /(?=.)\£(([1-9][0-9]{0,2}(,[0-9]{3})*)|[0-9]+)?(\.[0-9]{1,2})?/;
+            if(regexTest.test(Nodecontent)) {
+                jQCfp(parentElement).css("background-color", '#1111cc');               
+                parentElement.remove();
+                return true;
+            } 
+        }
+        catch(err) {
+            return false;
+        }
+        parentElement.children().each(function () {
+            loopForPriceChildrenAndReplace(jQCfp(this));
+        });
+        return false;        
+}
+
+function goParentOtherFinal($element, isFirst){
+        var parentElement = jQCfp($element).parent();
+        if(isFirst) {
+        parentElement = $element;
+        }
+        var isFoundFinal = false;
+        jQCfp(parentElement).find('img').each(function () {
+                if(!jQCfp.contains($element.get(0), this)) {
+                        isFoundFinal = true;
+                }
+        });
+        if(isFoundFinal) {
+                return $element;
+        }
+
+        var nodeName = parentElement.prop("tagName").toLowerCase();
+        if(nodeName == "body") {
+            return false;
+        }
+
+        return goParentOtherFinal(parentElement, false);
+}
+
+var copyCSSAndReset = function(sourceBtn, cmButton) {
+    
+    jQCfp(cmButton).attr("style", "");
+    
+    var minWidthBasedOnOld = jQCfp(sourceBtn).width();
+    jQCfp(cmButton).copyCSS(jQCfp(sourceBtn));
+    jQCfp(cmButton).css("min-width", minWidthBasedOnOld);
+    jQCfp(cmButton).css("width", "auto");
+    jQCfp(cmButton).attr("onlick", "return false;");
+    jQCfp(cmButton).attr("value", textGetAQuote); 
+    jQCfp(cmButton).attr("class", ""); 
+    jQCfp(cmButton).attr("style", jQCfp(cmButton).attr("style") + "; ");
+    jQCfp(cmButton).show();
+    var nodeName = cmButton.prop("tagName").toLowerCase();
+    if(nodeName == "button") {
+        jQCfp(cmButton).html(textGetAQuote);
+    }                           
+    return jQCfp(cmButton);
+}
+
+var copyCSSAndReset2 = function(sourceBtn, cmButton, sourceBtnStyle) {
+
+    jQCfp(cmButton).attr("style", "");
+
+    var minWidthBasedOnOld = jQCfp(sourceBtn).width();
+    jQCfp(cmButton).copyCSS(jQCfp(sourceBtnStyle));
+    jQCfp(cmButton).css("min-width", minWidthBasedOnOld);
+    jQCfp(cmButton).css("width", "auto");
+    jQCfp(cmButton).attr("onlick", "return false;");
+    jQCfp(cmButton).attr("value", textGetAQuote);
+    jQCfp(cmButton).attr("class", "");
+    jQCfp(cmButton).attr("style", jQCfp(cmButton).attr("style") + "; margin-top: 20px !important; margin-bottom: 10px !important; ");
+    jQCfp(cmButton).show();
+    var nodeName = cmButton.prop("tagName").toLowerCase();
+    if(nodeName == "button") {
+        jQCfp(cmButton).html(textGetAQuote);
+    }
+    return jQCfp(cmButton);
+}
+
+
+var enableComingSoonForm = function(form, date) {
+
+    jQCfp(form).find("select").each(function()
+      { 
+        //jQCfp(this).attr('disabled','disabled');  
+      });
+
+    jQCfp(form).find("input").each(function()
+      { 
+        //jQCfp(this).attr('disabled','disabled');
+      });
+
+      //var isFound = false;
+var selectorLength =  jQCfp(form).find('button, input[type="submit"], input[type="button"]').length;
+    jQCfp(form).find('button, input[type="submit"], input[type="button"]').each(function(index) {
+        if(isFound == true) {
+	return;
+	}
+        
+        if(!hideprice) {
+            jQCfp( "img" ).each(function() {
+                if(topMediaParentCFP == false) {
+                    topMediaParentCFP = findMediaTopParentCFP(this, jQCfp(this).parent());
+                }
+            });    
+        }            
+        
+	//var hash = jQCfp(this).attr('id') + jQCfp(this).attr('name') + jQCfp(this).text();
+	var hash = getHash(this);
+        if(selectorLength == 1 || hash.indexOf("Add") >= 0 || hash.indexOf("add") >= 0 || hash.indexOf("atc-button") >= 0 || hash.indexOf("Buy") >= 0 || hash.indexOf("buy") >= 0 || hash.indexOf("Sold") >= 0 || hash.indexOf("sold") >= 0) {
+
+if((window.location.href.indexOf('ipx360') > 0)) {
+//jQCfp("form input").remove();
+jQCfp("form label").remove();
+}
+
+	    isFound = true;
+            //jQCfp(this).replaceWith("<button onclick=\"return false;\">Coming soon</button>");
+            //jQCfp(this).attr("onlick", "return false;");
+            //jQCfp(this).clone().appendTo( jQCfp(this).parent());
+            //if(date != '') {
+	if(date != '-1' && date != '') {
+                jQCfp(this).parent().append( getQuotHTML() );
+                loopForPrice(jQCfp(this).parent());
+            }
+                        
+            copyCSSAndReset(jQCfp(this), jQCfp("#create-user"));
+            jQCfp("#create-user").css("visibility", "visible");            
+            if(hideAddToCart) {
+		jQCfp(".add-to-cart-loader").remove();
+                jQCfp(this).attr('disabled','disabled');
+                jQCfp(this).remove();
+            }
+            
+            
+            //buttonStyleClasses = jQCfp(this).attr('class');
+	}
+        else {
+            //jQCfp(this).attr('disabled','disabled');
+        }
+    }); 
+
+    if(isFound) {
+	return true;	
+    }   
+	return false;
+}
+
+var enableComingSoonFormAnyForm = function(form, date) {
+
+    jQCfp(form).find("select").each(function()
+      {
+        //jQCfp(this).attr('disabled','disabled');
+      });
+
+    jQCfp(form).find("input").each(function()
+      {
+        //jQCfp(this).attr('disabled','disabled');
+      });
+
+    var selectorLength =  jQCfp(form).find('button, input[type="submit"], input[type="button"]').length;
+    jQCfp(form).find('button, input[type="submit"], input[type="button"]').each(function(index) {
+        if(isFound == true) {
+        return;
+        }
+        
+        if(!hideprice) {
+            jQCfp( "img" ).each(function() {
+                if(topMediaParentCFP == false) {
+                    topMediaParentCFP = findMediaTopParentCFP(this, jQCfp(this).parent());
+                }
+            });    
+        }                
+        
+        var hash = getHash(this);
+        if(hash.indexOf("Add") >= 0 || hash.indexOf("add") >= 0 || hash.indexOf("Buy") >= 0 || hash.indexOf("buy") >= 0 || hash.indexOf("Sold") >= 0 || hash.indexOf("sold") >= 0) {
+            isFound = true;
+            //if(date != '') {
+	if(date != '-1' && date != '') {
+                jQCfp(this).parent().append( getQuotHTML() );
+                loopForPrice(jQCfp(this).parent());
+            }
+            
+            copyCSSAndReset(jQCfp(this), jQCfp("#create-user"));
+            
+            if(hideAddToCart) {                              
+                jQCfp(this).attr('disabled','disabled');
+                jQCfp(this).remove();
+            }
+            //buttonStyleClasses = jQCfp(this).attr('class');
+        }
+        else {
+            //jQCfp(this).attr('disabled','disabled');
+        }
+    });
+
+    if(isFound) {
+        return true;
+    }
+        return false;
+}
+
+var enableComingSoonFormByPars = function(form, date) {
+     if(isFound) {
+         return false;
+     }
+     if(!isFound) {
+        jQCfp(form).children().each(function(index) {
+	    var hash = jQCfp(this).clone().children().remove().end().text().toLowerCase();
+
+	    if(hash.indexOf("out ") >= 0 || hash.indexOf("Out of") >= 0 || hash.indexOf("Sold ") >= 0 || hash.indexOf("sold ") >= 0 || hash.indexOf("add ") >= 0 || hash.indexOf("Add ") >= 0) {
+
+                if((typeof jQCfp(this).attr("class")  !== typeof undefined) && jQCfp(this).attr("class").indexOf("sca-") > -1) {
+                        return;
+                }
+                
+                if(!hideprice) {
+                    jQCfp( "img" ).each(function() {
+                        if(topMediaParentCFP == false) {
+                            topMediaParentCFP = findMediaTopParentCFP(this, jQCfp(this).parent());
+                        }
+                    });    
+                }                
+                
+                isFound = true;
+                
+                copyCSSAndReset(jQCfp(this), jQCfp("#create-user"));
+                
+                if(hideAddToCart) {
+                    jQCfp(this).attr('disabled','disabled');
+                    jQCfp(this).remove();
+                }
+                //buttonStyleClasses = jQCfp(this).attr('class');
+            }
+            else {
+                //jQCfp(this).attr('disabled','disabled');
+            }
+	    
+	    if(!isFound) {	
+	    	enableComingSoonFormByPars(this, date)  
+	    }
+        });
+            
+        if(isFound && (!dateAppended)) {
+		dateAppended = true;
+                //if(date != '') {
+		if(date != '-1' && date != '') {
+                    jQCfp(form).parent().append( getQuotHTML() );
+                    loopForPrice(jQCfp(this).parent());
+                }
+        }
+    }
+    return isFound;
+}
+
+var productLinkValidate = function(gslinkSource, gssublink) {
+
+    if(gslinkSource == undefined) {
+        return false;
+    }
+
+    if(gslinkSource.indexOf(gssublink) == -1) {
+        return false;
+    }
+
+	if(gslinkSource.indexOf("/products/") > 0) {
+		var splitByProd = gslinkSource.split("/products");
+		gslinkSource = splitByProd[1];
+	}
+
+	if(gslinkSource.indexOf("products/") > 0) {
+		var splitByProd = gslinkSource.split("products");
+		gslinkSource = splitByProd[1];
+	}
+
+    gslinkSource = gslinkSource.replace("/", "");
+
+    try {
+    var splittUrl = gslinkSource.split(gssublink);
+    if(splittUrl[1].length == 0 && splittUrl[0].length == 0) {
+        return true;
+    }
+
+    var firstCharacter = splittUrl[1].charAt(0);
+    if(firstCharacter == '?' || firstCharacter == '#' || firstCharacter == '&' || firstCharacter == "^" || firstCharacter == "$" || firstCharacter == "/" || firstCharacter == "\\" || firstCharacter == "[" || firstCharacter == ":" || firstCharacter == ";" || firstCharacter == "." || firstCharacter == ",") {
+        return true;
+    }
+    else {
+        return  false;
+    }
+    }
+    catch(err) {
+        
+    }     
+}
+
+var productPageComingSoon = function(jQCfp) {
+    var currentUrl = jQCfp(location).attr('href');
+    if(currentUrl.indexOf("products") == -1) {
+        return false;
+    }
+    var splitUrl = currentUrl.split("/products");
+    currentUrl = splitUrl[1];    
+    
+    var productPageFound = false;
+    jQCfp.each( comingSoonProducts, function( productUrl, date ) {
+    productUrl = encodeURI(productUrl);            
+      if(productLinkValidate(currentUrl, productUrl)) {
+
+	  jQCfp(jQCfp("body").get(0)).append("<style> .product-or { display: none !important; } .ui-button-icon-only { min-width: unset !important; } #satcb_bar { display: none !important; } </style>");
+
+          foundProductPage = productUrl;
+          GSformId = date;
+
+     
+ 	  var addButtonFound = false; 
+
+
+          jQCfp('form[action="/cart/add"]').each(function(index) {
+	      if(!addButtonFound) {
+                if(window.location.href.indexOf('alphascience') > 0) {
+                if(jQCfp(this).hasClass("variants")) {
+                return;
+                }
+                }
+              	addButtonFound = enableComingSoonForm(this, date);
+	      }
+          });
+
+          if(!isFound) {
+          jQCfp('form[action="/cart/add"]').each(function(index) {
+              if(!addButtonFound) {
+                addButtonFound = enableComingSoonFormByPars(this, date);
+              }
+          });
+          }
+
+          if(!isFound) {
+          jQCfp('form').each(function(index) {
+              if(!addButtonFound) {
+                addButtonFound = enableComingSoonFormAnyForm(this, date);
+              }
+          });
+          }
+
+        if(!isFound) {
+            jQCfp("body").find('span, div, p, #request-price').each(function(index) {
+                var hash = jQCfp(this).clone().children().remove().end().text();
+
+
+                if(hash.indexOf("Not available") >= 0 || hash.indexOf("Sold ") >= 0 || hash.indexOf("sold ") >= 0 || hash.indexOf("Price") >= 0) {
+                    if((typeof jQCfp(this).attr("class")  !== typeof undefined) && jQCfp(this).attr("class").indexOf("sca-") > -1) {
+                            return;
+                    }                    
+                    isFound = true;
+                    //if(date != '') {
+			if(date != '-1' && date != '') {
+                        jQCfp(this).parent().append( getQuotHTML() );
+                        loopForPrice(jQCfp(this).parent());
+                    }
+                    jQCfp(this).attr("onlick", "return false;");
+                    jQCfp(this).attr("type", "button");
+                    
+                    copyCSSAndReset(jQCfp(this), jQCfp("#create-user"));
+                    
+                    if(hideAddToCart) {
+                        jQCfp(this).attr('disabled','disabled');
+                        jQCfp(this).remove();
+                    }
+                    //buttonStyleClasses = jQCfp(this).attr('class');
+                }
+                else {
+                    //jQCfp(this).attr('disabled','disabled');
+                }
+            });
+        }
+
+        if(!isFound) {
+          jQCfp('form').each(function(index) {
+              if(!addButtonFound) {
+                enableComingSoonFormByPars(this, date);
+              }
+          });
+        }
+
+        if(!isFound) {
+            if(window.location.href.indexOf("almaaudio") > 0) {
+            jQCfp("body").find('#notify-me').each(function(index) {
+
+                if(true) {
+                    if((typeof jQCfp(this).attr("class")  !== typeof undefined) && jQCfp(this).attr("class").indexOf("sca-") > -1) {
+                            return;
+                    }
+                    isFound = true;
+                    //if(date != '') {
+			if(date != '-1' && date != '') {
+                        jQCfp(this).parent().append( getQuotHTML() );
+                       // loopForPrice(jQCfp(this).parent());
+                    }
+                    jQCfp(this).attr("onlick", "return false;");
+                    jQCfp(this).attr("type", "button");
+
+                    var buttonQuoteGS = copyCSSAndReset2(jQCfp(this), jQCfp("#create-user"), jQCfp("#email-submit"));
+                    //jQCfp(buttonQuoteGS).attr("style", "");
+                    //jQCfp(buttonQuoteGS).removeClass("ui-button");
+                    jQCfp(buttonQuoteGS).attr("class", "btn styled-submit");
+
+                    if(hideAddToCart) {
+                        jQCfp(this).attr('disabled','disabled');
+                        jQCfp(this).remove();
+                    }
+                    //buttonStyleClasses = jQCfp(this).attr('class');
+                }
+                else {
+                    //jQCfp(this).attr('disabled','disabled');
+                }
+            });
+        }
+        }
+
+        productPageFound = true;
+      }
+    });    
+    return productPageFound;
+}
+
+var otherSectionsComingSoon = function(jQCfp, skipCurrentProduct) {
+if(window.location.href.indexOf('refur') > 0) {
+return;
+}
+
+jQCfp('a[href*="products"]').each(function(index) {
+	if(foundProductPage != '') {
+            if(jQCfp(this).attr('href').indexOf(foundProductPage) > 0) {
+                    return;
+            }
+            if(topMediaParentCFP != false) {
+                if(jQCfp.contains(this, topMediaParentCFP.get(0)))
+                {
+                    return false;
+                }
+            }
+            
+	}
+        var linkPotentialQV2 = jQCfp(this);
+        var linkPotentialQVHash2 = getHash(linkPotentialQV2);
+        if(linkPotentialQVHash2.toLowerCase().indexOf("next") >= 0 || linkPotentialQVHash2.toLowerCase().indexOf("prev") >= 0) {
+            return true;
+        }                
+	csUrls = getComingSoonUrls();
+	var hrefElement = this;
+	jQCfp.each( csUrls, function( index2, csUrl ) {
+        // CHANGEURLST
+	if(!(productLinkValidate(jQCfp(hrefElement).attr('href'), csUrl))) {
+	return;
+	}            
+	var splitHref = jQCfp(hrefElement).attr('href').split("/products");
+	var parentOther = goParentOtherXI(hrefElement, splitHref[1]);
+
+	if(parentOther == null) {
+
+		parentOther = jQCfp(hrefElement);
+//		return;
+	}
+        
+        var containsOtherProductsSkip = false;
+        jQCfp(parentOther).find('a[href*="products"]').each(function(index) {
+            // CHANGEURLST
+            if(!(productLinkValidate(jQCfp(this).attr('href'), csUrl))) {
+                containsOtherProductsSkip = true;
+            }
+        });          
+        if(containsOtherProductsSkip) {
+            return;
+        }        
+
+        var nodeName = parentOther.prop("tagName").toLowerCase();
+        if(nodeName == "body") {
+            return false;
+        }
+
+        var nodeName = parentOther.parent().prop("tagName").toLowerCase();
+        if(nodeName == "body") {
+                return false;
+        }
+        
+        
+        if(hideAddToCart) {
+        var finalEl = goParentOtherFinal(parentOther, true);
+        if(finalEl != false ) {
+                // remove SCA
+                jQCfp(finalEl).addClass("removesca");
+		if(stylesappended == false) {
+                jQCfp(jQCfp("body").get(0)).append("<style> .removesca .price { display: none !important; } .removesca .sca-qv-button-wrap { display: none !important; } .removesca .satcb_quick_buy { display: none !important; } </style>");
+		stylesappended = true;
+		}
+        }
+        var currentUrl = jQCfp(location).attr('href');
+
+            // remove all forms
+            jQCfp(parentOther).find('form').each(function(index) {
+               //jQCfp(hrefElement).remove();
+            });        
+
+            jQCfp(parentOther).find('a').each(function(index) {
+                var linkPotentialQV = jQCfp(this);
+                var linkPotentialQVHash = getHash(linkPotentialQV);
+                //console.log(linkPotentialQVHash.toLowerCase());
+                if(linkPotentialQVHash.toLowerCase().indexOf("quick") > -1) {
+                    quickViewButtons.push(linkPotentialQV);
+                }
+            jQCfp(parentOther).find("[class*=quick]").each(function(index) {
+               quickViewButtons.push(jQCfp(this));
+            });        
+
+            jQCfp(parentOther).find("[class*=Quick]").each(function(index) {
+               quickViewButtons.push(jQCfp(this));
+            });        
+
+            jQCfp(parentOther).find("[class*=QUICK]").each(function(index) {
+               quickViewButtons.push(jQCfp(this));
+            });        
+
+            jQCfp(parentOther).find("[id*=quick]").each(function(index) {
+               quickViewButtons.push(jQCfp(this));
+            });        
+
+            jQCfp(parentOther).find("[id*=Quick]").each(function(index) {
+               quickViewButtons.push(jQCfp(this));
+            });        
+
+            jQCfp(parentOther).find("[id*=QUICK]").each(function(index) {
+               quickViewButtons.push(jQCfp(this));
+            });        
+
+
+            });                 
+            blockAddButtonsOther(parentOther);	
+        }
+        
+        loopForPriceChildrenAndReplaceOther(parentOther, true);
+        
+        if(hideAddToCart) {
+            replaceTextRecursiveEach3(parentOther);
+            if(replacedSoldOut) {
+                jQCfp(parentOther).addClass("removeGSBadge");
+            }
+            if((!replacedSoldOut) && (!hideGetAQuoteOther)) {        
+            jQCfp(parentOther).find('img').each(function(index) {
+
+                var contentCS2 = jQuery('<div style="border-radius: 0px; top: 0; border: 2px solid ' + badgeCSColor +  '; position: absolute; left: auto; right: auto; margin-top: 0px; margin-left: 0px; background-color: 0;background-color: ' + badgeCSColor + ';color: #ffffff;opacity: 1;padding-right: 7px;padding-left: 7px;z-index: 1; padding-top: 2px; padding-bottom:1px">' + textGetAQuote + '</div>');
+                
+                var prependedEl = jQCfp(this).parent().prepend(contentCS2);
+                contentCS2.attr("class", "comingSoonBadge2");	    
+
+            });                
+
+            }            
+        }
+	//jQCfp(parentOther).css("background-color", '#cc1111');
+	});
+        replacedSoldOut = false;
+});
+
+jQCfp.each( quickViewButtons, function( buttonIndex ) {
+    try {
+        this.remove();
+    }
+    catch(err) {
+        
+    }    
+    });
+    quickViewButtons = [];
+
+}
+
+function hasValueCFP(valueOfAttr) {
+	if(valueOfAttr == "undefined") {
+		return false;
+	}
+	if(valueOfAttr == null) {
+		return false;
+	}
+	if(valueOfAttr === false) {
+		return false;
+	}
+	return true;
+}
+
+function getHash(elementForHash) {
+	var hash = '';
+	//elementForHash = jQCfp(elementForHash);
+	if(hasValueCFP(jQCfp(elementForHash).attr('class')) != false) {
+		hash = hash + jQCfp(elementForHash).attr('class');
+	}
+
+        if(hasValueCFP(jQCfp(elementForHash).attr('id')) != false) {
+                hash = hash + jQCfp(elementForHash).attr('id');
+        }
+
+        if(hasValueCFP(jQCfp(elementForHash).attr('name')) != false) {
+                hash = hash + jQCfp(elementForHash).attr('name');
+        }
+
+        if(hasValueCFP(jQCfp(elementForHash).attr('value')) != false) {
+                hash = hash + jQCfp(elementForHash).attr('value');
+        }
+	
+        if(hasValueCFP(jQCfp(elementForHash).text()) != false) {
+                hash = hash + jQCfp(elementForHash).text();
+        }
+	return hash;
+}
+
+
+function blockAddButtonsOther(otherElement) {
+    jQCfp(otherElement).find('button, input[type="submit"], input[type="button"]').each(function(index) {
+	var hash =  getHash(this);
+        if(hash.indexOf("Add") >= 0 || hash.indexOf("add") >= 0 || hash.indexOf("Buy") >= 0 || hash.indexOf("buy") >= 0 || hash.indexOf("Purchase") >= 0 || hash.indexOf("Sold") >= 0 || hash.indexOf("sold") >= 0) {
+            isFound = true;
+            jQCfp(this).attr("onlick", "return false;");
+            jQCfp(this).attr("value", textGetAQuote);
+            replaceTextRecursiveEach(jQCfp(this));
+            jQCfp(this).off( "click", "**" );
+	    jQCfp(this).attr('disabled','disabled');
+	    jQCfp(this).remove();
+	}
+    });
+
+}
+
+
+function goParentOtherXI($element, productOtherUrl){
+        var hasEndCondition = false;
+        var parentElement = jQCfp($element).parent();
+        foundParentOther = '';
+
+        jQCfp($element).parent().each(function () {
+                if(hasEndCondition) {
+                        return foundParentOther;
+                }
+                jQCfp(this).find('a').each(function(index) {
+                        // CHANGEURLST
+                        if(!(productLinkValidate(jQCfp(this).attr('href'), productOtherUrl))) {
+                                if(jQCfp(this).attr('href').indexOf("/") >= 0) {
+                                        hasEndCondition = true;
+                                }
+                        }
+                });
+                //console.log(jQCfp(this).find('img').length );
+                if(jQCfp(this).find('img').length > 0) {
+                if(hasEndCondition) {
+                        if(foundParentOther == '') {
+                        foundParentOther = jQCfp(this);
+                        }
+                        return jQCfp(this);
+                }
+                else {
+                        foundParentOther = jQCfp(this);
+                }
+                }
+
+        });
+
+        if(foundParentOther != '') {
+                return foundParentOther;
+        }
+
+        if(hasEndCondition) {
+                return null;
+        }
+
+        return goParentOtherXI(parentElement, productOtherUrl);
+}
+
+function getComingSoonUrls() {
+    csUrls = [];
+    jQCfp.each( comingSoonProducts, function( productUrl, date ) {
+        csUrls.push(productUrl);
+    });
+    return csUrls;
+}
+
+
+hasRun = false; 
+    function updateTips( t ) {
+      tips
+        .text( t )
+        .addClass( "ui-state-highlight" );
+      setTimeout(function() {
+        tips.removeClass( "ui-state-highlight", 1500 );
+      }, 500 );
+    }
+ 
+    function checkLength( o, n, min, max ) {
+      if ( o.val().length > max || o.val().length < min ) {
+        o.addClass( "ui-state-error" );
+        updateTips( "Length of " + n + " must be between " +
+          min + " and " + max + "." );
+        return false;
+      } else {
+        return true;
+      }
+    }
+ 
+    function checkRegexp( o, regexp, n ) {
+      if ( !( regexp.test( o.val() ) ) ) {
+        o.addClass( "ui-state-error" );
+        updateTips( n );
+        return false;
+      } else {
+        return true;
+      }
+    }
+ 
+    function sendForm() {
+        ("#formframe").contents().find("[tokenid=" + token + "]")
+    }
+ 
+
+
+var mainCFP = function(){
+   
+ 
+    try {
+    if(hasRun) {
+        return;
+    }
+    jQCfp(jQCfp("body").get(0)).append("<style> .ui-widget-overlay { z-index: 9999 !important; } .removeGSBadge .comingSoonBadge2 { display: none !important; } </style>");
+//jQCfp("body").append("<style>.ui-dialog { z-index: 99999 !important; }</style>");
+    hasRun = true;
+    if(productPageComingSoon(jQCfp)) {
+
+jQCfp("body").append("<style>.ui-draggable { } .ui-dialog .ui-widget-header{ border: 1px solid #ddd !important; background: " + gscBack + " !important; } .ui-draggable .ui-dialog-titlebar { color: " + gscFont + " !important; } </style>");
+
+//jQCfp("body").append("<style>.ui-dialog { z-index: 99999 !important; }</style>");
+
+jQCfp("body").append("<style>.ui-dialog { z-index: 999999 !important; }</style>");
+
+
+ setInterval(function(){ 
+    jQCfp( "#create-user" ).button().unbind( "click" ).on( "click", function(event) {
+event.preventDefault();
+
+      
+ 
+        if(dialogGS == null) {
+
+            jQCfp.ui.dialog.prototype.options.autoReposition = true;
+            jQCfp(window).resize(function () {
+                jQCfp(".ui-dialog-content:visible").each(function () {
+                    if (jQCfp(this).dialog('option', 'autoReposition')) {
+                        jQCfp(this).dialog('option', 'position', jQCfp(this).dialog('option', 'position'));
+                    }
+                });
+            });
+            
+            var maxHeight = jQCfp(window).height() - 50;
+            if(maxHeight <= 350) {
+                maxHeight = 350;
+            }
+            if(maxHeight > 600) {
+                maxHeight = 600;
+            }
+            
+            var maxWidth = jQCfp(window).width() - 50;
+            
+            if(maxWidth <= 500) {
+                maxWidth = jQCfp(window).width() - 10;
+            }
+
+	    if(maxWidth > 500) {
+                maxWidth = 500;
+            }            
+            var milliseconds = new Date().getTime();
+            var currentUrl = jQCfp(location).attr('href');
+            var milliseconds = new Date().getTime();
+            var currentUrl = jQCfp(location).attr('href');
+            var explodedUrl = currentUrl.split("/products/");
+            var productSubUrl = explodedUrl[1].replace("?", "PARGSPAR").replace("=", "EQGSPEQ");  
+                        
+            dialogGS = jQCfp( "#dialog-form" ).append($("<iframe  />").attr("src", "https://gravity-software.com/js/shopify/cfp/contact" + GSformId + ".html?time=" + milliseconds + "&suburl=" + decodeURI(productSubUrl)).attr("id", "formframe")).dialog({
+              autoOpen: false,
+              height: maxHeight,
+              width: maxWidth,
+              autoReposition: true,
+              modal: true,
+              close: function() {
+              },
+   		   open: function(event, ui) {
+   			 
+   		    $("body").css({ overflow: 'hidden' })
+   		   },
+   		   beforeClose: function(event, ui) {
+   		    $("body").css({ overflow: 'inherit' })
+			 }
+            });        
+
+            jQCfp("#formframe").css("border", "0px").css("width", "100%").css("height", "100%");
+        }
+
+        dialogGS.dialog( "open" );
+          event.stopPropagation();
+          $('#dialog-form').css('overflow', 'hidden');
+          //jQCfp("body").append("<style>.ui-dialog { z-index: 99999 !important; }</style>");
+          return false;
+        });  
+}, 500);
+
+
+window.setInterval(function(){        
+
+//if((window.location.href.indexOf('alphascience') > 0) || (window.location.href.indexOf('sleephouse') > 0)) {
+jQCfp('.ui-dialog-titlebar-close').each(function(index) {
+if(!jQCfp(this).hasClass("ui-icon-closethick")) {
+jQCfp(this).addClass("ui-button-icon");
+//jQCfp(this).addClass("ui-icon");
+jQCfp(this).addClass("ui-icon-closethick");
+jQCfp(this).css("min-height", '10px');
+}
+});
+//}
+
+    jQCfp( "#create-user" ).button().on( "click", function(event) {
+      
+jQCfp("body").append("<style>.ui-dialog .ui-widget-header{ border: 1px solid #ddd !important; background: " + gscBack + " !important; } .ui-draggable .ui-dialog-titlebar { color: " + gscFont + " !important; } </style>"); 
+ 
+        if(dialogGS == null) {
+
+            jQCfp.ui.dialog.prototype.options.autoReposition = true;
+            jQCfp(window).resize(function () {
+                jQCfp(".ui-dialog-content:visible").each(function () {
+                    if (jQCfp(this).dialog('option', 'autoReposition')) {
+                        jQCfp(this).dialog('option', 'position', jQCfp(this).dialog('option', 'position'));
+                    }
+                });
+            });
+            
+            var maxHeight = jQCfp(window).height() - 50;
+            if(maxHeight <= 350) {
+                maxHeight = 350;
+            }
+            if(maxHeight > 600) {
+                maxHeight = 600;
+            }
+            
+            var maxWidth = jQCfp(window).width() - 50;
+            if(maxWidth <= 350) {
+                maxWidth = 350;
+            }
+            if(maxWidth > 500) {
+                maxWidth = 500;
+            }            
+            var milliseconds = new Date().getTime();
+            var currentUrl = jQCfp(location).attr('href');
+            var milliseconds = new Date().getTime();
+            var currentUrl = jQCfp(location).attr('href');
+            var explodedUrl = currentUrl.split("/products/");
+            var productSubUrl = explodedUrl[1].replace("?", "PARGSPAR").replace("=", "EQGSPEQ");  
+                        
+            dialogGS = jQCfp( "#dialog-form" ).append($("<iframe  />").attr("src", "https://gravity-software.com/js/shopify/cfp/contact" + GSformId + ".html?time=" + milliseconds + "&suburl=" + decodeURI(productSubUrl)).attr("id", "formframe")).dialog({
+              autoOpen: false,
+              height: maxHeight,
+              width: maxWidth,
+              autoReposition: true,
+              modal: true,
+              close: function() {
+              },
+   		   open: function(event, ui) {
+   			  
+   		    $("body").css({ overflow: 'hidden' })
+   		   },
+   		   beforeClose: function(event, ui) {
+   		    $("body").css({ overflow: 'inherit' })
+			 }
+            });        
+
+            jQCfp("#formframe").css("border", "0px").css("width", "100%").css("height", "100%");
+        }
+
+        dialogGS.dialog( "open" );
+          event.stopPropagation();
+          $('#dialog-form').css('overflow', 'hidden');
+          jQCfp("body").append("<style>.ui-dialog { z-index: 9999999 !important; }</style>");
+          return false;
+        });  
+}, 1000);
+
+        if(buttonStyleForceTheme) {
+            if(buttonStyleClasses.length > 0) {
+                //jQCfp( "#create-user" ).attr("class", buttonStyleClasses);
+            }
+        }   
+	if(window.location.href.indexOf("amclives") > 0) {
+        jQCfp("body").find("[for*=quanti]").remove();
+        }     
+    	otherSectionsComingSoon(jQCfp, true);
+    }
+    else {
+	otherSectionsComingSoon(jQCfp, false);
+window.setInterval(function(){
+        otherSectionsComingSoon(jQCfp, false);
+}, 1000);
+    }
+    //badgesSectionsComingSoonV2(document.body);
+    }
+    catch(err) {
+        console.log(err);
+    }
+    jQCfp("body").css("opacity", '1');
+    jQCfp("html").css("opacity", '1');
+};
+
+
+
+function badgesSectionsComingSoonV2(node) {
+    jQCfp.each( comingSoonProducts, function( productUrl, date ) {
+        jQCfp("a[href*=" + productUrl + "]").each(function () {
+            recursiveReplace(this);
+        });
+    });
+    
+}
+
+function recursiveReplace(node) {
+    if (node.nodeType == 3) { // text node
+        node.nodeValue = node.nodeValue.replace("Sold Out", textGetAQuote);
+        node.nodeValue = node.nodeValue.replace("Sold out", textGetAQuote);
+        node.nodeValue = node.nodeValue.replace("sold out", textGetAQuote);
+    } else if (node.nodeType == 1) { // element
+        jQCfp(node).contents().each(function () {
+            recursiveReplace(this);
+        });
+    }
+}
+
+if($ != 'undefined')
+{
+    jQCfp = $;
+}
+else {
+    jQCfp = jQuery.noConflict(true);
+}
+if(isenabled) {
+    
+    jQCfp("html").css("opacity", '0');
+
+    jQCfp( document ).ready(function() {
+       mainCFP();
+    });
+}
